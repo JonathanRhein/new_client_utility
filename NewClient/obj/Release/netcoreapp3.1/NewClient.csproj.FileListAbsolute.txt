@@ -1,0 +1,16 @@
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.exe
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.deps.json
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.runtimeconfig.json
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.runtimeconfig.dev.json
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.dll
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\bin\Release\netcoreapp3.1\NewClient.pdb
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.csproj.AssemblyReference.cache
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.Form1.resources
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.csproj.GenerateResource.cache
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.AssemblyInfoInputs.cache
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.AssemblyInfo.cs
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.dll
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.pdb
+C:\Users\jonathan.rhein\source\repos\NewClient\NewClient\obj\Release\netcoreapp3.1\NewClient.genruntimeconfig.cache
